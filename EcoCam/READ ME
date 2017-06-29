@@ -1,0 +1,21 @@
+HOW TO RUN CAMERA
+
+-open terminal
+-type: source ~/.profile
+-type: workon cv
+-type: cd /home/pi/Documents/EcoCam
+-type: python Camera.py
+
+=======================================
+HOW TO RUN SERVER
+
+-open terminal
+-type: cd /home/pi/Documents/EcoCam
+-type: python Server.py
+
+=======================================
+HOW TO RUN CLIENT
+
+-open terminal
+-type: cd /home/pi/Documents/EcoCam
+-type: python Client.py
